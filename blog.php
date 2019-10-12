@@ -1,0 +1,2 @@
+<?php
+echo "Muri Blog";
